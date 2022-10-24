@@ -107,9 +107,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#    define ENABLE_RGB_MATRIX_SOLID_MULTISPLASH
 #endif
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
-#define SPLIT_LAYER_STATE_ENABLE
-#define SPLIT_WPM_ENABLE //Enable WPM across split keyboards (+268).
-//#define SPLIT_OLED_ENABLE
-//idk if needed
-
-#define DYNAMIC_KEYMAP_LAYER_COUNT 6
